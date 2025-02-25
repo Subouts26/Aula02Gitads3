@@ -1,4 +1,4 @@
-# Aula02Gitads3
-grupo git aula
+# Aula Guit Hub
+Repositório criado para exemplo na aula de Git da UniFaat
 
-alteracao efetuada na maquina
+Alteração efetuada na Maquina
